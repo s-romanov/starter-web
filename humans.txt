@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Slav Romanov sromanov.psy@gmail.com @sromanov
+	
 # THANKS
 
     <name>
